@@ -41,7 +41,7 @@ This graduate-level course provides comprehensive coverage of machine learning t
 ## Required Software
 
 - **Python**: [Anaconda distribution](https://anaconda.org/anaconda/python)
-- **ML Libraries**: [JAX](https://github.com/jax-ml/jax), TensorFlow, PyTorch
+- **ML Libraries**: [JAX](https://github.com/jax-ml/jax), PyTorch
 - **Cloud Computing**: [Google Colab](https://colab.research.google.com) for GPU/TPU access
 
 ## Repository Structure
